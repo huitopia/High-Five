@@ -11,9 +11,9 @@
     </p>
     <br/>
    <p align='center'>
-      <a href='https://www.canva.com/design/DAGJrEM9uQg/YjMCcJizEJdqjEsQd_eRWA/view?utm_content=DAGJrEM9uQg&utm_campaign=designshare&utm_medium=link&utm_source=editor' target='_blank'> 🔗 팀 발표자료</a> &nbsp; &nbsp;  | &nbsp; &nbsp; 
-      <a href='https://www.canva.com/design/DAGKmWiVGyU/mIzNr-eQwo8LUQsMiBNgDA/view?utm_content=DAGKmWiVGyU&utm_campaign=designshare&utm_medium=link&utm_source=editor' target='_blank'> 🔗 개인 포트폴리오</a> &nbsp; &nbsp;    | &nbsp; &nbsp; 
-      <a href='https://huitopia.notion.site/2c4fb555828c41f4b69f4a675689e282?pvs=4' target='_blank'> 🔗 팀 노션</a> &nbsp; &nbsp;  
+      <a href='https://www.canva.com/design/DAGJrEM9uQg/YjMCcJizEJdqjEsQd_eRWA/view?utm_content=DAGJrEM9uQg&utm_campaign=designshare&utm_medium=link&utm_source=editor' target="_blank"> 🔗 팀 발표자료</a> &nbsp; &nbsp;  | &nbsp; &nbsp; 
+      <a href='https://www.canva.com/design/DAGKmWiVGyU/mIzNr-eQwo8LUQsMiBNgDA/view?utm_content=DAGKmWiVGyU&utm_campaign=designshare&utm_medium=link&utm_source=editor' target="_blank"> 🔗 개인 포트폴리오</a> &nbsp; &nbsp;    | &nbsp; &nbsp; 
+      <a href='https://huitopia.notion.site/2c4fb555828c41f4b69f4a675689e282?pvs=4' target="_blank"> 🔗 팀 노션</a> &nbsp; &nbsp;  
     </p>
 </div>
 
